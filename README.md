@@ -1,4 +1,4 @@
-# Hi, I'm Liang Chenming
+# Hi, I'm Aiben
 
 I'm a student at Shenzhen Technology University building embedded systems and hardware around sensing, control, and real-world signals.
 
